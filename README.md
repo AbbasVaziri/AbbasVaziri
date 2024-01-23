@@ -2,6 +2,7 @@
 
 <p>summery</p>
 
+<h4>reach me with:</h4>
 <a href="mailto:abbbasjavanshirvaziri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/abbas_javanshir11"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
