@@ -2,6 +2,9 @@
 
 <p>summery</p>
 
+<a href="mailto:abbbasjavanshirvaziri@gmail.com">ارسال ایمیل به ما</a>
+
+
 <h2 align="left">💡 My expertises:</h2>
 
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
