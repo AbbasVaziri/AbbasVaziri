@@ -1,4 +1,4 @@
-<h1 align="center" color="green">Hi there , I'm Abbas Vaziri 👋</h1>
+<h1 align="center">Hi there , I'm Abbas Vaziri 👋</h1>
 
 <h2 align="left">💡 My expertises:</h2>
 
