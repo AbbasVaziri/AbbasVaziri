@@ -1,5 +1,4 @@
-# Hi there , I'm Abbas Vaziri 👋
-
+<h1 align="center">Hi there , I'm Abbas Vaziri 👋</h1>
 
 <h2 align="left">💡 My expertises:</h2>
 
