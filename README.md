@@ -1,8 +1,7 @@
 <h1 align="center">Hi there , I'm Abbas Vaziri 👋</h1>
 
 <p>
-self taught front-end developer Passionate about building scalable software and exploring new technologies. Always ready to run the extra mile with code.
-Now I am learning nextjs more deeply and I am actively seeking internship opportunities to further enhance my skills in web development.
+Self-taught front-end developer passionate about building scalable software and exploring new technologies. Always ready to run the extra mile with code. I am currently deepening my knowledge of Next.js and actively seeking internship opportunities to further enhance my skills in web development
 </p>
 
 <h4>📫 How to reach me:</h4>
