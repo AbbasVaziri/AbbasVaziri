@@ -1,6 +1,9 @@
 <h1 align="center">Hi there , I'm Abbas Vaziri 👋</h1>
 
-<p>'m a front-end developer who loves to create fast and responsive web applications. I'm always eager to learn new skills and technologies, especially in the areas of performance optimization and testing automation. Currently, I'm learning node.js and looking for opportunities to collaborate on node.js projects. Feel free to check out my work and connect with me</p>
+<p>
+self taught front-end developer Passionate about building scalable software and exploring new technologies. Always ready to run the extra mile with code.
+Now I am learning nextjs more deeply and I am actively seeking internship opportunities to further enhance my skills in web development.
+</p>
 
 <h4>📫 How to reach me:</h4>
 <a href="mailto:abbbasjavanshirvaziri@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
