@@ -2,7 +2,7 @@
 
 <p>'m a front-end developer who loves to create fast and responsive web applications. I'm always eager to learn new skills and technologies, especially in the areas of performance optimization and testing automation. Currently, I'm learning node.js and looking for opportunities to collaborate on node.js projects. Feel free to check out my work and connect with me</p>
 
-<h4>reach me with:</h4>
+<h4>📫 How to reach me:</h4>
 <a href="mailto:abbbasjavanshirvaziri@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://t.me/abbas_javanshir11"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 
