@@ -1,5 +1,6 @@
 <h1 align="center">Hi there , I'm Abbas Vaziri 👋</h1>
 
+<p>Front end dev ,  Always ready to run the extra mile with code. I am currently deepening my knowledge of Next.js and actively seeking internship opportunities to further enhance my skills in web development</p>
 
 
 <h4>📫 How to reach me:</h4>
