@@ -1,7 +1,10 @@
 <h1 align="center">Hi there , I'm Abbas Vaziri 👋</h1>
 
-<p>Front end dev ,  Always ready to run the extra mile with code. I am currently deepening my knowledge of Next.js and actively seeking internship opportunities to further enhance my skills in web development</p>
+I'm a passionate **Front-End Developer** with 2 years of experience in web development. I love diving into code and bringing designs to life in the browser. Debugging is one of my favorite aspects of the job because it challenges me to continuously learn and refine my skills.
 
+Coding isn't just a job for me—it's my passion. I'm committed to ongoing learning and growth in this ever-evolving field, and I'm always looking for new opportunities to sharpen my skills and take on exciting projects.
+
+Feel free to explore my repositories to see what I've been working on, and don't hesitate to reach out if you'd like to collaborate or discuss anything web development related!
 
 <h4>📫 How to reach me:</h4>
 <a href="mailto:abbbasjavanshirvaziri@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
