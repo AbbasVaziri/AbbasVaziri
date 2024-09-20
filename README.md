@@ -1,6 +1,6 @@
 <h1 align="center">Hi there , I'm Abbas Vaziri 👋</h1>
 
-I'm a passionate **Front-End Developer** with 2 years of experience in web development. I love diving into code and bringing designs to life in the browser. Debugging is one of my favorite aspects of the job because it challenges me to continuously learn and refine my skills.
+I'm a passionate **Front-End Developer** with 3 years of experience in web development. I love diving into code and bringing designs to life in the browser. Debugging is one of my favorite aspects of the job because it challenges me to continuously learn and refine my skills.
 
 Coding isn't just a job for me—it's my passion. I'm committed to ongoing learning and growth in this ever-evolving field, and I'm always looking for new opportunities to sharpen my skills and take on exciting projects.
 
